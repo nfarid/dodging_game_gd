@@ -1,3 +1,3 @@
 
-This is the repository for the game, Dodge It!
+This is the repository for the simple game, Dodge It!
 
