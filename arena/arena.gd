@@ -76,4 +76,3 @@ func _on_timer_timeout() -> void:
 	enemy.linear_velocity = Vector2(spd, 0.0).rotated(vel_ang)
 
 	_enemy_timer.wait_time += 4.0
-

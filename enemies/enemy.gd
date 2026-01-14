@@ -35,4 +35,3 @@ func _on_body_entered(node: Node) -> void:
 		_billiard_collide.play()
 	elif body.collision_layer == 4:
 		_wall_hit.play()
-
